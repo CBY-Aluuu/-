@@ -1,6 +1,8 @@
-# -
+<img width="1220" height="822" alt="dd1b7482-0711-493a-b84e-5b1238ee4b0b" src="https://github.com/user-attachments/assets/7be0ffe8-6489-4aca-aed7-ecef397becbc" /># -
 电脑采集 3.2.1
 开发者：CBY
+
+<img width="1220" height="822" alt="dd1b7482-0711-493a-b84e-5b1238ee4b0b" src="https://github.com/user-attachments/assets/951d6f19-a3c1-41cd-be0b-defc963ce4ee" />
 
 【日常使用】
 1. 把压缩包全部解压，双击“电脑台账采集.exe”，不用安装。
