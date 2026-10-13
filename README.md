@@ -1,9 +1,5 @@
-<img width="1220" height="822" alt="dd1b7482-0711-493a-b84e-5b1238ee4b0b" src="https://github.com/user-attachments/assets/7be0ffe8-6489-4aca-aed7-ecef397becbc" /># -
 电脑采集 3.2.1
 开发者：CBY
-
-<img width="1220" height="822" alt="dd1b7482-0711-493a-b84e-5b1238ee4b0b" src="https://github.com/user-attachments/assets/951d6f19-a3c1-41cd-be0b-defc963ce4ee" />
-
 【日常使用】
 1. 把压缩包全部解压，双击“电脑台账采集.exe”，不用安装。
 2. 把 2026、2027 等电脑台账 .xlsx 放在程序旁边，在底部“当前台账”选择。程序记住上次选择；新放入表格后点“刷新列表”。
@@ -11,6 +7,8 @@
 4. 在“历史记录”选中一条，可预览、删除，也可以直接打开当前 Excel 台账。删除前会自动备份。
 5. 在 Excel / WPS 中删除整行并保存，约 2 秒后自动同步条数。首次旧表升级若提示关闭表格，关闭一次即可。
 6. 误删时在“备份与恢复”选择删除前的备份，恢复到新文件夹，原数据保留。
+
+<img width="1220" height="822" alt="dd1b7482-0711-493a-b84e-5b1238ee4b0b" src="https://github.com/user-attachments/assets/951d6f19-a3c1-41cd-be0b-defc963ce4ee" />
 
 快捷键：Ctrl+F 搜索；搜索框按 Esc 清空；选中记录后按 Enter 预览。
 鼠标操作：搜索框旁的“×”清空搜索；双击记录可预览。
