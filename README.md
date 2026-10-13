@@ -8,7 +8,8 @@
 5. 在 Excel / WPS 中删除整行并保存，约 2 秒后自动同步条数。首次旧表升级若提示关闭表格，关闭一次即可。
 6. 误删时在“备份与恢复”选择删除前的备份，恢复到新文件夹，原数据保留。
 
-<img width="1220" height="822" alt="dd1b7482-0711-493a-b84e-5b1238ee4b0b" src="https://github.com/user-attachments/assets/951d6f19-a3c1-41cd-be0b-defc963ce4ee" />
+<img width="1220" height="822" alt="e5b49460-99fb-480d-a299-cad139eaf963" src="https://github.com/user-attachments/assets/5bbba2f5-60ae-47c1-a42b-3a99b5e287e8" />
+
 
 快捷键：Ctrl+F 搜索；搜索框按 Esc 清空；选中记录后按 Enter 预览。
 鼠标操作：搜索框旁的“×”清空搜索；双击记录可预览。
